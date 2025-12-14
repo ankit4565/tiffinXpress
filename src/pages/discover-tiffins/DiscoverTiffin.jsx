@@ -1,6 +1,6 @@
 import { Header } from "../../component/Header.jsx";
 import "./DiscoverTiffin.css";
-// import { Services } from "./Services.jsx";
+import { Services } from "./Services.jsx";
 
 export function DiscoverTiffin() {
   return (
